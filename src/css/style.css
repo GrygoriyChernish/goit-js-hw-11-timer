@@ -1,0 +1,8 @@
+.timer {
+  display: flex;
+  justify-content: space-around;
+}
+
+.value {
+  display: block;
+}

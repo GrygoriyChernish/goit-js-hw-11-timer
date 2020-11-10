@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,OACE,YAAa,CACb,4BACF,CAEA,OACE,aACF","file":"style.9b2921c3.css","sourceRoot":"../src","sourcesContent":[".timer {\n  display: flex;\n  justify-content: space-around;\n}\n\n.value {\n  display: block;\n}"]}
